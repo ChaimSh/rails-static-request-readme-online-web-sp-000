@@ -1,0 +1,2 @@
+class StaticConroller < ApplicationController
+end
