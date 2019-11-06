@@ -1,2 +1,2 @@
-class StaticConroller < ApplicationController
+class StaticController < ApplicationController
 end
